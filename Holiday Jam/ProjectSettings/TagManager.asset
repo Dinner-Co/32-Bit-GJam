@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Floor(Jumpl/Walkable)
+  - Player
+  - Enemies
   - 
   - 
   - 
